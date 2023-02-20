@@ -1,0 +1,3 @@
+/Users/jiayiren/Desktop/Games101/hw1/cmake-build-debug/CMakeFiles/Rasterizer.dir
+/Users/jiayiren/Desktop/Games101/hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiayiren/Desktop/Games101/hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

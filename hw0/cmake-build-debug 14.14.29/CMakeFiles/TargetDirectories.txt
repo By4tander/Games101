@@ -1,0 +1,3 @@
+/Users/jiayiren/GAMES101/hw0/cmake-build-debug/CMakeFiles/Transformation.dir
+/Users/jiayiren/GAMES101/hw0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiayiren/GAMES101/hw0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
